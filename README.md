@@ -2,9 +2,9 @@
 
 音乐播放器虽然烂大街了，但是作为前端没自己撸一个一直是个遗憾，而且偶然间发现 pc 端 web 版的网易云音乐做的实在是太简陋了，社区仿 pc 客户端的网易云也不多见，为了弥补这个遗憾，就用 vue 全家桶模仿 mac 客户端的 ui 实现了一个，欢迎提出意见和 star~
 
-💐[预览地址](https://ssh-music.vercel.app)
+💐[预览地址](http://virkano.gitee.io/neteasemusic)
 
-💐[源码地址](https://github.com/sl1673495/vue-netease-music)
+💐[源码地址](https://github.com/Virkano/NetEasemusic)
 
 ### 进度
 
@@ -53,6 +53,3 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 npm i
 npm run dev
 ```
-
-### 友情链接
-[mmPlayer](https://github.com/maomao1996/Vue-mmPlayer)
