@@ -2,7 +2,7 @@
 
 音乐播放器虽然烂大街了，但是作为前端没自己撸一个一直是个遗憾，而且偶然间发现 pc 端 web 版的网易云音乐做的实在是太简陋了，社区仿 pc 客户端的网易云也不多见，为了弥补这个遗憾，就用 vue 全家桶模仿 mac 客户端的 ui 实现了一个，欢迎提出意见和 star~
 
-💐[预览地址](http://virkano.gitee.io/neteasemusic)
+预览[预览地址]（http://virkano.gitee.io/neteasemusic）               Øok被禁了，大家自己下载看吧dist文件的index文件吧！
 
 💐[源码地址](https://github.com/Virkano/NetEasemusic)
 
