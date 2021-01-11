@@ -4,6 +4,8 @@
 
 💐[预览地址](http://virkano.gitee.io/neteasemusic)               Øok被禁了，大家自己下载看吧dist文件的index文件吧！
 
+💐[预览地址2](https://www.virkano.com/NetEasemusic/#/) 
+
 💐[源码地址](https://github.com/Virkano/NetEasemusic)
 
 ### 进度
